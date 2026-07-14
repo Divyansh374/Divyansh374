@@ -43,6 +43,13 @@ Features include:
 - PostgreSQL
 - System Design
 
+## 🎯 Goals for 2026
+
+- Finish Expense Tracker API
+- Learn PostgreSQL
+- Build Portfolio Website
+- Contribute to Open Source
+
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/divyansh-gupta-81691640b/
