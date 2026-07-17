@@ -15,17 +15,19 @@ I'm currently building production-style backend systems before starting college.
 
 ## 📌 Current Project
 
-**Expense Tracker API**
+**Expense Tracker REST API**
 
 Features include:
 
 - JWT Authentication
 - Role-based Authorization
-- Budget Management
-- Recurring Transactions
+- Multiple Financial Accounts
+- Transaction Management
+- Categories
 - Institution Requests
-- Shared Workspaces
+- MongoDB Transactions
 - Analytics using MongoDB Aggregation
+- Filtering, Sorting, Pagination, Field Limiting & Search
 
 ## 🛠 Tech Stack
 
@@ -34,21 +36,28 @@ Features include:
 - Express.js
 - MongoDB
 - Mongoose
+- REST API Design
 - Git & GitHub
-- React
+- Basic React (Routing, State Management, Framer Motion, etc.)
 
 ## 📚 Currently Learning
 
-- Advanced Backend Development
-- PostgreSQL
+- TypeScript
 - System Design
 
 ## 🎯 Goals for 2026
 
-- Finish Expense Tracker API
-- Learn PostgreSQL
-- Build Portfolio Website
-- Contribute to Open Source
+- ✅ Learn TypeScript
+- ⚛️ Learn Advanced React (Next.js, React Query/TanStack, Query, Forms, etc.)
+- 💻 Build the Expense Tracker Frontend
+- 🐘 Learn PostgreSQL deeply
+- 🏗️ Learn Advanced Backend topics alongside SQL
+- 🛒 Build the SQL-based E-commerce project
+
+## ✅ Completed Milestones
+
+- Built Task Management REST API
+- Built Expense Tracker REST API v1
 
 ## 📫 Connect with me
 
