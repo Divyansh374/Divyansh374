@@ -4,14 +4,14 @@ Backend Developer from India
 
 I'm currently building production-style backend systems before starting college.
 
-## 🚀 Current Focus
+## 🚀 Main Focus
 
-- Node.js
-- Express.js
-- MongoDB
+- Backend Engineering
 - REST API Design
 - Authentication & Authorization
-- Database Design
+- Database Design (SQL & NoSQL)
+- Full-Stack Web Development
+- Scalable System Architecture
 
 ## 📌 Current Project
 
@@ -38,7 +38,7 @@ Features include:
 - Mongoose
 - REST API Design
 - Git & GitHub
-- Basic React (Routing, State Management, Framer Motion, etc.)
+- React (Hooks, Routing, State Management)
 
 ## 📚 Currently Learning
 
